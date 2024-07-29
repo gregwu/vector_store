@@ -1,1 +1,1 @@
-Vecote store from scratch 
+Vector store from scratch 
